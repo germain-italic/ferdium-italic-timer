@@ -1,0 +1,12 @@
+{
+  "id": "italictimer",
+  "name": "Timer Italic",
+  "version": "1.0.0",
+  "description": "Timer Italic",
+  "main": "index.js",
+  "author": "Germain Metti <17506424+germain-italic@users.noreply.github.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://secure.italic.fr/timesheets/timer/"
+  }
+}
